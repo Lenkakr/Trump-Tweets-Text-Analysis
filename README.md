@@ -1,5 +1,4 @@
 # Trump-Tweets-Text-Analysis
-Text analysis of Trump tweets between 2009 and 2017
 
 In this project, we analysed 30,385 tweets of Donald Trump that were posted between 5.4.2009 and 27.1.2017. 
 
